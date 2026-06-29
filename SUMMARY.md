@@ -4,6 +4,7 @@
 
 ## Getting started
 
+* [Getting Support](getting-started/getting-support.md)
 * [Getting started checklist](getting-started/getting-started-checklist.md)
 * [What's the difference between a workspace and a project?](getting-started/whats-the-difference-between-a-workspace-and-a-project.md)
 * [Setting up a custom domain](getting-started/setting-up-a-custom-domain.md)
