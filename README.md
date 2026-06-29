@@ -28,6 +28,8 @@ Welcome to Staylime’s help center. Our support team has compiled a list of com
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
+***
+
 ### Support
 
 Browse the most common questions below. Open any item to see the full answer.
@@ -98,3 +100,10 @@ At Staylime, we've carefully chosen to offer support exclusively through our ema
 Additionally, please keep in mind that for Shopify-related questions, you can reach out to Shopify's dedicated support team. They are available around the clock to promptly assist you with any inquiries that are not specific to our app. As for any questions concerning third-party code or apps, we recommend reaching out to the developer directly.
 
 </details>
+
+***
+
+### **Additional resources**
+
+* [Shopify guides](https://help.shopify.com/en) — documentation for all standard Shopify features
+* [Contact Shopify](https://help.shopify.com/en/support/login) — 24/7 support for Shopify-specific questions
