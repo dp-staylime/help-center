@@ -36,9 +36,7 @@ Browse the most common questions below. Open any item to see the full answer.
 
 <summary><strong>Where can I get support?</strong></summary>
 
-You can easily find answers to your questions by exploring our comprehensive help center.
-
-Additionally, you can submit a support ticket through our [convenient online form](https://staylime.zendesk.com/hc/en-us/requests/new), and we'll respond promptly.
+Browse our help center or submit a ticket via our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new).
 
 </details>
 
@@ -68,12 +66,11 @@ We're here to assist you promptly and effectively. Here are the details of our s
 
 <summary><strong>How to get the fastest response to my request?</strong></summary>
 
-To ensure the fastest response to your inquiry, we recommend the following:
+After submitting the form, check your inbox for an automated reply. No reply within a few minutes means we didn't receive your message — check your spam folder and double-check your email address.
 
-* When contacting us via our contact form, please look for an automated reply email. If you don't receive this email within a few minutes, it's possible that we didn't receive your message. Double-check your email address for accuracy, and also check your spam or junk folder.
-* Please refrain from emailing us to inquire about the status of your inquiry before we've had a chance to respond. We handle emails in the order they're received, and sending status requests prematurely can push your ticket to the end of our queue.
-* If you have questions related to standard Shopify functionality, like creating products, pages, collections, or blog posts, or if your questions are not specific to our app, please reach out to Shopify support directly. They offer 24/7 assistance.
-* If you initially contacted Shopify about your issue and they reached out to us on your behalf, there's no need to contact us separately. We've received the communication and will respond as swiftly as possible.
+Don't send follow-up emails to ask about your ticket status — it moves your request to the end of the queue.
+
+For general Shopify questions (products, collections, pages, checkout), contact [Shopify support](https://help.shopify.com/en/questions) directly — they're available 24/7. If Shopify already reached out to us on your behalf, no need to contact us separately.
 
 </details>
 
@@ -81,11 +78,11 @@ To ensure the fastest response to your inquiry, we recommend the following:
 
 <summary><strong>What is covered by your support?</strong></summary>
 
-At our core, we're dedicated to ensuring your experience with our app is seamless. Here's what our support encompasses:
+* Questions about theme and app functionality
+* Help with setup and configuration
+* Fixing bugs in our products
 
-* General queries regarding app functionality and technical capabilities.
-* Guiding you through setting up the app and configuring its settings.
-* Fixing technical issues with our app in a timely manner.
+For issues with third-party apps or custom code not created by Staylime, contact the respective developer.
 
 </details>
 
