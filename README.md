@@ -28,7 +28,9 @@ layout:
 
 <p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button></p>
 
-### Support
+<h3 align="center">Support</h3>
+
+<p align="center">Browse the most common questions below. Open any item to see the full answer.</p>
 
 <details>
 
@@ -99,4 +101,3 @@ At Staylime, we've carefully chosen to offer support exclusively through our ema
 Additionally, please keep in mind that for Shopify-related questions, you can reach out to Shopify's dedicated support team. They are available around the clock to promptly assist you with any inquiries that are not specific to our app. As for any questions concerning third-party code or apps, we recommend reaching out to the developer directly.
 
 </details>
-
