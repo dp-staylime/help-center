@@ -1,7 +1,7 @@
 ---
 icon: life-ring
 layout:
-  width: wide
+  width: default
   title:
     visible: false
   description:
@@ -9,7 +9,7 @@ layout:
   tableOfContents:
     visible: false
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
