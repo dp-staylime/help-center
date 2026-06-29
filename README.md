@@ -3,17 +3,17 @@ icon: life-ring
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
   actions:
@@ -22,15 +22,15 @@ layout:
 
 # Help Center
 
-<h2 align="center">Help Center</h2>
+## Help Center
 
-<p align="center">Welcome to Staylime’s help center. Our support team has compiled a list of common questions and answers to help you find tips, insights, and troubleshooting advice.</p>
+Welcome to Staylime’s help center. Our support team has compiled a list of common questions and answers to help you find tips, insights, and troubleshooting advice.
 
-<p align="center"><button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button></p>
+<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
-<h3 align="center">Support</h3>
+### Support
 
-<p align="center">Browse the most common questions below. Open any item to see the full answer.</p>
+Browse the most common questions below. Open any item to see the full answer.
 
 <details>
 
