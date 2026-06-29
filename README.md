@@ -38,7 +38,7 @@ Browse the most common questions below. Open any item to see the full answer.
 
 You can easily find answers to your questions by exploring our comprehensive help center.
 
-Additionally, you can submit a support ticket through our convenient online form, and we'll respond promptly.
+Additionally, you can submit a support ticket through our [convenient online form](https://staylime.zendesk.com/hc/en-us/requests/new), and we'll respond promptly.
 
 </details>
 
