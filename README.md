@@ -30,6 +30,24 @@ Welcome to Staylime’s help center. Our support team has compiled a list of com
 
 ***
 
+### Docs Updates
+
+We regularly add and update articles based on real support cases. Recent changes:
+
+<details>
+
+<summary><strong>June 30, 2026</strong></summary>
+
+* Added: [How to remove "Powered by Shopify" from the footer](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/theme-setup/how-to-remove-powered-by-shopify-from-the-footer) (Avante FAQ)
+* Added: [Can I use custom fonts?](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/theme-setup/can-i-use-custom-fonts) (Avante FAQ)
+* Updated: Variant Picker, Typography, Layout — Volume theme settings rewritten for accuracy
+* Added: [Smart Category Menu](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/smart-category-menu), [Linked Products](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/products/linked-products), [Subcollections setup guides](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/collections/subcollections) (Volume)
+* Updated: [EU Energy Label FAQ](https://app.gitbook.com/s/xVJktUBFEDa8kf65lOm9/faq) — existing questions rewritten for clarity
+
+</details>
+
+***
+
 ### Support
 
 Browse the most common questions below. Open any item to see the full answer.
