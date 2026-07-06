@@ -67,7 +67,7 @@ Browse the most common questions below. Open any item to see the full answer.
 
 <summary><strong>Where can I get support?</strong></summary>
 
-Browse our help center or submit a ticket via our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new).
+You can find answers to common questions in our help center. To submit a support request, use our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new) — we'll respond within 1–2 business days.
 
 </details>
 
@@ -83,13 +83,9 @@ Our primary language of communication is English, and our support team is based 
 
 <summary><strong>What are your support hours and how quickly can I expect a response to my request?</strong></summary>
 
-We're here to assist you promptly and effectively. Here are the details of our support hours and response times:
+Our team operates in the Central European Time Zone, **Monday through Friday** (excluding most European holidays), approximately **9:00 AM – 6:00 PM**. We do not provide support on weekends.&#x20;
 
-1. **Support hours.** Our team operates primarily in the Central European Time Zone. We're available for support during the following hours:
-   * Monday through Friday excluding most European holidays.
-   * Approximately from 9:00 AM to 6:00 PM.
-   * Please note that we do not provide email support on weekends.
-2. **Response time.** We are committed to addressing your email inquiries promptly, with a target response time of one to two business days. However, response times may vary due to factors such as our current email volume or unforeseen circumstances.
+Our target response time is **1–2 business days**, though this may vary depending on current volume.
 
 </details>
 
@@ -97,11 +93,11 @@ We're here to assist you promptly and effectively. Here are the details of our s
 
 <summary><strong>How to get the fastest response to my request?</strong></summary>
 
-After submitting the form, check your inbox for an automated reply. No reply within a few minutes means we didn't receive your message — check your spam folder and double-check your email address.
-
-Don't send follow-up emails to ask about your ticket status — it moves your request to the end of the queue.
-
-For general Shopify questions (products, collections, pages, checkout), contact [Shopify support](https://help.shopify.com/en/questions) directly — they're available 24/7. If Shopify already reached out to us on your behalf, no need to contact us separately.
+* After submitting via our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new), check for an automated confirmation email. If it doesn't arrive within a few minutes, verify your email address and check your spam folder.
+* Please don't send follow-up emails asking about your ticket status — this moves your request to the back of the queue.
+* For issues with third-party apps, contact the app developer first — they're best placed to help.
+* For standard Shopify questions (creating products, pages, collections), contact [Shopify support](https://help.shopify.com/en/questions) directly — they're available 24/7.
+* If Shopify already contacted us on your behalf, no need to reach out separately — we've received it.
 
 </details>
 
@@ -109,11 +105,9 @@ For general Shopify questions (products, collections, pages, checkout), contact 
 
 <summary><strong>What is covered by your support?</strong></summary>
 
-* Questions about theme and app functionality
-* Help with setup and configuration
-* Fixing bugs in our products
-
-For issues with third-party apps or custom code not created by Staylime, contact the respective developer.
+* General questions about theme functionality and technical capabilities
+* Guidance on setting up theme features and configuring settings
+* Fixing technical issues with our theme
 
 </details>
 
@@ -121,12 +115,116 @@ For issues with third-party apps or custom code not created by Staylime, contact
 
 <summary><strong>Why do you not include phone or live chat support with your app?</strong></summary>
 
-At Staylime, we've carefully chosen to offer support exclusively through our email ticket system. Here's the reasoning behind this decision:
+We offer support exclusively through our email ticket system for two reasons:
 
-1. **Equitable assistance.** We are deeply committed to providing fair and equal support to all our valued customers. Using an email ticket system ensures that every inquiry is handled in the order it's received. This means that no customer has to wait longer than another.
-2. **Technical precision.** The majority of support queries we receive are technical in nature. Email support allows us to provide you with highly accurate solutions. We can easily utilize tools like screenshots, video screen captures, links, and code snippets to assist you effectively. This approach ensures that you receive well-documented and precise guidance.
+1. **Equitable assistance.** Every inquiry is handled in the order it's received — no customer waits longer than another.
+2. **Technical precision.** Most support queries are technical. Email lets us provide accurate, well-documented solutions using screenshots, videos, links, and code snippets.
 
-Additionally, please keep in mind that for Shopify-related questions, you can reach out to Shopify's dedicated support team. They are available around the clock to promptly assist you with any inquiries that are not specific to our app. As for any questions concerning third-party code or apps, we recommend reaching out to the developer directly.
+For non-theme questions, [Shopify support](https://help.shopify.com/en) is available 24/7. For third-party app issues, contact the app developer directly.
+
+</details>
+
+<details>
+
+<summary><strong>Why should I trust your company?</strong></summary>
+
+At Staylime, trust is built through long-standing partnerships and a consistent track record. Here's why our customers rely on us:
+
+* **12 years of experience** in ecommerce design and development
+* **In-house development** — all products are built and supported by our own team, ensuring quality control
+* **Continuous improvements** — regular free updates to keep themes aligned with the latest standards
+* **Dedicated support** — personalized approach with the entire team involved beyond standard support
+
+</details>
+
+<details>
+
+<summary><strong>Is the prebuilt theme fully customizable?</strong></summary>
+
+Yes — every prebuilt style is fully customizable. Upon installing a theme, you have full control over content and layouts: swap images, edit text, adjust colors, or completely redesign any section using the [Shopify theme editor](https://shopify.dev/themes/tools/online-editor).
+
+</details>
+
+<details>
+
+<summary>Do you provide theme customization or setup services?</summary>
+
+Yes — we offer custom development services at a rate of **$80/hour**. If you have a specific request, reach out via our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new) with the details, and we'll provide an estimate.
+
+</details>
+
+<details>
+
+<summary>What do I receive with the purchase?</summary>
+
+Your purchase includes lifelong updates — new features, bug fixes, and improvements — plus access to our support team for any theme-related questions or issues.
+
+</details>
+
+<details>
+
+<summary>Are there any recurring fees?</summary>
+
+No. Our themes are a one-time purchase with no ongoing license fees. All future updates are included at no additional cost.
+
+</details>
+
+<details>
+
+<summary>Do you provide refunds?</summary>
+
+Themes are digital goods — once installed or downloaded, access cannot be revoked, so refunds are not available. We strongly recommend using the free trial available on the Shopify Theme Store before purchasing. Trials have no time limit and give you full access to all settings.
+
+If you have an unresolved issue, please reach out — we're committed to addressing any concerns quickly. Note that neither Shopify nor theme providers can issue refunds for digitally downloaded products per [Shopify's terms of service](https://www.shopify.com/legal/terms).
+
+</details>
+
+<details>
+
+<summary>Can I use my theme on multiple Shopify stores?</summary>
+
+Per [Shopify's terms of service](https://www.shopify.com/legal/terms), each theme license applies to one store. If you need the theme on multiple stores, a separate license is required for each. To transfer a license to a different store, [contact Shopify Support](https://help.shopify.com/questions#/contact). Learn more about [licensing and transferring themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/unlicensed-themes).
+
+</details>
+
+<details>
+
+<summary>Is it possible to download a trial version of your theme?</summary>
+
+Yes — a free trial is available directly on the Shopify Theme Store. We recommend trying it before purchasing. The trial has no time limit and gives you full access to all settings and options. The only restrictions are that you can't edit the code or publish the trial as your live theme. To start, go to the theme listing on the Shopify Theme Store and click "Try theme."
+
+</details>
+
+<details>
+
+<summary>Is your theme GDPR compliant?</summary>
+
+_This information is for general guidance only and should not be considered legal advice._
+
+Our themes control only the visual design of your store and are not directly involved in collecting, processing, or storing personal data — that's handled by Shopify's servers or third-party app servers.
+
+Useful resources:
+
+* [Shopify's GDPR compliance](https://help.shopify.com/en/manual/privacy-and-security/privacy/gdpr)
+* [Shopify subprocessors](https://help.shopify.com/en/manual/privacy-and-security/privacy/subprocessors)
+* [Cookie consent apps](https://apps.shopify.com/search/query?q=cookie)
+* For third-party app compliance, contact the app developer directly.
+
+</details>
+
+<details>
+
+<summary>Is your theme ADA (or other accessibility standards) compliant?</summary>
+
+Our themes aim for accessibility, but may not guarantee full compliance with specific standards such as ADA, ARIA, or WAI. We are committed to improving accessibility as Shopify defines and releases updated standards for themes.
+
+Achieving full accessibility is a shared responsibility between theme providers and store owners.
+
+Useful resources:
+
+* [Shopify's accessibility policy](https://www.shopify.com/accessibility/policy)
+* [Why and how to improve ecommerce website accessibility](https://www.shopify.com/partners/blog/why-and-how-to-improve-ecommerce-website-accessibility)
+* [Accessibility for themes](https://help.shopify.com/en/manual/using-themes/change-the-layout/accessibility)
 
 </details>
 
