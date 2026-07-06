@@ -40,8 +40,8 @@ We regularly add and update articles based on real support cases. Recent changes
 
 <summary><strong>July 6, 2026</strong></summary>
 
-* Added: [Install & activate Volume](https://docs.staylime.com/volume/getting-started/install-activate-volume), [Volume theme setup guide — where to start](https://docs.staylime.com/volume/getting-started/volume-theme-setup-guide) (Volume)
-* Added: [Avante theme setup guide — where to start](https://docs.staylime.com/avante/getting-started/avante-theme-setup-guide) (Avante)
+* Added: [Install & activate Volume](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources), [Volume theme setup guide — where to start](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources-1) (Volume)
+* Added: [Avante theme setup guide — where to start](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/getting-started/install-and-activate-avante-1) (Avante)
 
 </details>
 
