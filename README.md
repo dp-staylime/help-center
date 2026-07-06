@@ -28,7 +28,7 @@ Welcome to Staylime’s help center. Our support team has compiled a list of com
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-cloud-arrow-up" style="color:$primary;">:cloud-arrow-up:</i> <strong>Docs Updates</strong></td><td>Recent changes to our documentation</td><td><a href="./#docs-updates">#docs-updates</a></td></tr><tr><td><i class="fa-thought-bubble" style="color:$primary;">:thought-bubble:</i> <strong>Support</strong></td><td>Common questions about getting help</td><td><a href="./#support">#support</a></td></tr><tr><td><i class="fa-link-horizontal" style="color:$primary;">:link-horizontal:</i> <strong>Additional resources</strong></td><td>Shopify guides and contact links</td><td><a href="./#additional-resources">#additional-resources</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-cloud-arrow-up" style="color:$primary;">:cloud-arrow-up:</i> <strong>Docs Updates</strong></td><td>Recent changes to our documentation</td><td><a href="./#docs-updates">#docs-updates</a></td></tr><tr><td><i class="fa-thought-bubble" style="color:$primary;">:thought-bubble:</i> <strong>FAQ</strong></td><td>Common questions about getting help</td><td><a href="./#support">#support</a></td></tr><tr><td><i class="fa-link-horizontal" style="color:$primary;">:link-horizontal:</i> <strong>Additional resources</strong></td><td>Shopify guides and contact links</td><td><a href="./#additional-resources">#additional-resources</a></td></tr></tbody></table>
 
 ***
 
@@ -59,7 +59,7 @@ We regularly add and update articles based on real support cases. Recent changes
 
 ***
 
-### <i class="fa-thought-bubble" style="color:$primary;">:thought-bubble:</i> Support
+### <i class="fa-thought-bubble" style="color:$primary;">:thought-bubble:</i> Frequently asked questions
 
 Browse the most common questions below. Open any item to see the full answer.
 
