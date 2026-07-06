@@ -147,7 +147,7 @@ Yes — every prebuilt style is fully customizable. Upon installing a theme, you
 
 <details>
 
-<summary>Do you provide theme customization or setup services?</summary>
+<summary><strong>Do you provide theme customization or setup services?</strong></summary>
 
 Yes — we offer custom development services at a rate of **$80/hour**. If you have a specific request, reach out via our [contact form](https://staylime.zendesk.com/hc/en-us/requests/new) with the details, and we'll provide an estimate.
 
@@ -155,7 +155,7 @@ Yes — we offer custom development services at a rate of **$80/hour**. If you h
 
 <details>
 
-<summary>What do I receive with the purchase?</summary>
+<summary><strong>What do I receive with the purchase?</strong></summary>
 
 Your purchase includes lifelong updates — new features, bug fixes, and improvements — plus access to our support team for any theme-related questions or issues.
 
@@ -163,7 +163,7 @@ Your purchase includes lifelong updates — new features, bug fixes, and improve
 
 <details>
 
-<summary>Are there any recurring fees?</summary>
+<summary><strong>Are there any recurring fees?</strong></summary>
 
 No. Our themes are a one-time purchase with no ongoing license fees. All future updates are included at no additional cost.
 
@@ -171,7 +171,7 @@ No. Our themes are a one-time purchase with no ongoing license fees. All future 
 
 <details>
 
-<summary>Do you provide refunds?</summary>
+<summary><strong>Do you provide refunds?</strong></summary>
 
 Themes are digital goods — once installed or downloaded, access cannot be revoked, so refunds are not available. We strongly recommend using the free trial available on the Shopify Theme Store before purchasing. Trials have no time limit and give you full access to all settings.
 
@@ -181,7 +181,7 @@ If you have an unresolved issue, please reach out — we're committed to address
 
 <details>
 
-<summary>Can I use my theme on multiple Shopify stores?</summary>
+<summary><strong>Can I use my theme on multiple Shopify stores?</strong></summary>
 
 Per [Shopify's terms of service](https://www.shopify.com/legal/terms), each theme license applies to one store. If you need the theme on multiple stores, a separate license is required for each. To transfer a license to a different store, [contact Shopify Support](https://help.shopify.com/questions#/contact). Learn more about [licensing and transferring themes](https://help.shopify.com/en/manual/online-store/themes/managing-themes/unlicensed-themes).
 
@@ -189,7 +189,7 @@ Per [Shopify's terms of service](https://www.shopify.com/legal/terms), each them
 
 <details>
 
-<summary>Is it possible to download a trial version of your theme?</summary>
+<summary><strong>Is it possible to download a trial version of your theme?</strong></summary>
 
 Yes — a free trial is available directly on the Shopify Theme Store. We recommend trying it before purchasing. The trial has no time limit and gives you full access to all settings and options. The only restrictions are that you can't edit the code or publish the trial as your live theme. To start, go to the theme listing on the Shopify Theme Store and click "Try theme."
 
@@ -197,7 +197,7 @@ Yes — a free trial is available directly on the Shopify Theme Store. We recomm
 
 <details>
 
-<summary>Is your theme GDPR compliant?</summary>
+<summary><strong>Is your theme GDPR compliant?</strong></summary>
 
 _This information is for general guidance only and should not be considered legal advice._
 
@@ -214,7 +214,7 @@ Useful resources:
 
 <details>
 
-<summary>Is your theme ADA (or other accessibility standards) compliant?</summary>
+<summary><strong>Is your theme ADA (or other accessibility standards) compliant?</strong></summary>
 
 Our themes aim for accessibility, but may not guarantee full compliance with specific standards such as ADA, ARIA, or WAI. We are committed to improving accessibility as Shopify defines and releases updated standards for themes.
 
