@@ -38,6 +38,15 @@ We regularly add and update articles based on real support cases. Recent changes
 
 <details>
 
+<summary><strong>July 6, 2026</strong></summary>
+
+* Added: [Install & activate Volume](https://docs.staylime.com/volume/getting-started/install-activate-volume), [Volume theme setup guide — where to start](https://docs.staylime.com/volume/getting-started/volume-theme-setup-guide) (Volume)
+* Added: [Avante theme setup guide — where to start](https://docs.staylime.com/avante/getting-started/avante-theme-setup-guide) (Avante)
+
+</details>
+
+<details>
+
 <summary><strong>June 30, 2026</strong></summary>
 
 * Added: [How to remove "Powered by Shopify" from the footer](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/theme-setup/how-to-remove-powered-by-shopify-from-the-footer) (Avante FAQ)
