@@ -42,6 +42,8 @@ We regularly add and update articles based on real support cases. Recent changes
 
 * Added: [Install & activate Volume](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources), [Volume theme setup guide — where to start](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources-1) (Volume)
 * Added: [Avante theme setup guide — where to start](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/getting-started/install-and-activate-avante-1) (Avante)
+* Added: [Troubleshooting guide](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/troubleshooting/troubleshooting-guide), [Custom development services](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/services/custom-development-services), [Heading tags and SEO for your Shopify store](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/seo/heading-tags-and-seo-for-your-shopify-store) (Documentation)
+* Added: [Developer docs](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/developer/developer-docs) (Avante)
 
 </details>
 
