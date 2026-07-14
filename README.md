@@ -38,10 +38,20 @@ We regularly add and update articles based on real support cases. Recent changes
 
 <details>
 
+<summary><strong>July 14, 2026</strong></summary>
+
+* Added: [Product Badges](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/features-and-advanced-setup/product-badges), [Product Subtitle](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/features-and-advanced-setup/product-subtitle), [Store Speed & PageSpeed Optimization](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/performance/store-speed-and-pagespeed-optimization) (Avante)
+* Added: [Header & Menu Styles](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/header-and-menu-styles), [Mega Menu](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/mega-menu), [Announcement Bar & Footer](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/announcement-bar-and-footer), [Breadcrumbs](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/breadcrumbs) (Volume)
+* Added: [Shopify resources for new merchants](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/getting-started/shopify-resources-for-new-merchants) (Documentation)
+
+</details>
+
+<details>
+
 <summary><strong>July 6, 2026</strong></summary>
 
-* Added: [Install & activate Volume](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources), [Volume theme setup guide — where to start](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/helpful-resources-1) (Volume)
-* Added: [Avante theme setup guide — where to start](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/getting-started/install-and-activate-avante-1) (Avante)
+* Added: [Install & activate Volume](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/getting-started/install-and-activate-volume) (Volume)
+* Added: [Avante theme setup guide — where to start](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/getting-started/avante-theme-setup-guide-where-to-start) (Avante)
 * Added: [Troubleshooting guide](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/troubleshooting/troubleshooting-guide), [Custom development services](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/services/custom-development-services), [Heading tags and SEO for your Shopify store](https://app.gitbook.com/s/7SDIiatjQ7RGqq2Io8z4/seo/heading-tags-and-seo-for-your-shopify-store) (Documentation)
 * Added: [Developer docs](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/developer/developer-docs) (Avante)
 
@@ -54,7 +64,7 @@ We regularly add and update articles based on real support cases. Recent changes
 * Added: [How to remove "Powered by Shopify" from the footer](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/theme-setup/how-to-remove-powered-by-shopify-from-the-footer) (Avante FAQ)
 * Added: [Can I use custom fonts?](https://app.gitbook.com/s/6DraMvJNYYlFJqlho1aV/faq/theme-setup/can-i-use-custom-fonts) (Avante FAQ)
 * Updated: Variant Picker, Typography, Layout — Volume theme settings rewritten for accuracy
-* Added: [Smart Category Menu](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/smart-category-menu), [Linked Products](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/products/linked-products), [Subcollections setup guides](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/collections/subcollections) (Volume)
+* Added: [Smart Category Menu](https://app.gitbook.com/s/JZYrhya1ZIeTZS4wpBJB/navigation/smart-category-menu) (Volume)
 * Updated: [EU Energy Label FAQ](https://app.gitbook.com/s/xVJktUBFEDa8kf65lOm9/faq) — existing questions rewritten for clarity
 
 </details>
