@@ -1,4 +1,8 @@
 ---
+description: >-
+  Contact Staylime support, browse FAQs on licensing, refunds, GDPR, and
+  customization services. Find support hours, theme resources, and documentation
+  updates.
 icon: life-ring
 layout:
   width: default
@@ -95,7 +99,7 @@ Our primary language of communication is English, and our support team is based 
 
 <summary><strong>What are your support hours and how quickly can I expect a response to my request?</strong></summary>
 
-Our team operates in the Central European Time Zone, **Monday through Friday** (excluding most European holidays), approximately **9:00 AM – 6:00 PM**. We do not provide support on weekends.&#x20;
+Our team operates in the Central European Time Zone, **Monday through Friday** (excluding most European holidays), approximately **9:00 AM – 6:00 PM**. We do not provide support on weekends.
 
 Our target response time is **1–2 business days**, though this may vary depending on current volume.
 
