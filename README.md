@@ -7,7 +7,7 @@ icon: life-ring
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -25,8 +25,6 @@ layout:
 ---
 
 # Help Center
-
-## Help Center
 
 Welcome to Staylime’s help center. Our support team has compiled a list of common questions and answers to help you find tips, insights, and troubleshooting advice.
 
